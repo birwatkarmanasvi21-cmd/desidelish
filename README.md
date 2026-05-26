@@ -1,5 +1,5 @@
-# desideslish
-# 🍔 Food Ordering System
+# desidelish
+# Food Ordering System
 
 A full-stack food ordering web application built with **Next.js, React, Node.js, Express, Prisma ORM, and PostgreSQL**.
 
@@ -7,7 +7,7 @@ Users can browse restaurants, filter cuisines, detect their location automatical
 
 ---
 
-## 🚀 Features
+## Features
 
 * JWT Authentication
 * Restaurant & Menu Browsing
@@ -21,7 +21,7 @@ Users can browse restaurants, filter cuisines, detect their location automatical
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -53,7 +53,7 @@ Users can browse restaurants, filter cuisines, detect their location automatical
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 ├── app
@@ -69,7 +69,7 @@ Users can browse restaurants, filter cuisines, detect their location automatical
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
@@ -129,7 +129,7 @@ http://localhost:3000
 
 ---
 
-## 📍 Location Detection
+##  Location Detection
 
 The application uses:
 
@@ -140,9 +140,9 @@ to automatically fetch and autofill user addresses during signup.
 
 ---
 
-## 🔄 Application Architecture
+##  Application Architecture
 
-```text
+
 Frontend (Next.js / React)
         ↓
 REST APIs
@@ -156,7 +156,7 @@ PostgreSQL
 
 ---
 
-## 🔐 Authentication Flow
+## Authentication Flow
 
 ```text
 User Login
@@ -170,7 +170,7 @@ Protected API Access
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 * Online Payment Integration
 * Real-time Order Tracking
@@ -181,6 +181,6 @@ Protected API Access
 
 ---
 
-## 📜 License
+## License
 
 This project is built for educational and learning purposes.
